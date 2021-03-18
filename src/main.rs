@@ -6,9 +6,9 @@ use futures::{
 use reqwest::{Client, Error}; // 0.10.9
 use select::document::Document;
 use select::predicate::{Attr, Class, Name, Predicate};
-use serde::{self, Deserialize, Serialize};
-
-use std::{borrow::Borrow, vec::IntoIter};
+use serde::{self, Deserialize, Serialize, de::IntoDeserializer};
+use std::str::from_utf8;
+use std::{borrow::{Borrow, Cow}, vec::IntoIter};
 
 #[path = "./types/olx-data.rs"]
 pub mod olx_posts;
@@ -56,11 +56,21 @@ fn parse_script_tag<T: Deserialize<'static>>(
     let possible_script_tag = nodes.next();
     return possible_script_tag;
 }
+
+
 fn get_safe_data_json_value(
     possible_attr: Option<Result<Attribute, quick_xml::Error>>,
-) -> Option<Attribute> {
+) -> Option<Cow<[u8]>> {
     match possible_attr {
-        Some(Ok(safe)) => Some(safe),
+        Some(Ok(safe)) => {
+            println!("True value: {:#?}", safe.value);
+            let cow = safe.unescaped_value().into_ok();
+            match from_utf8(cow) {
+                Ok(safe_string)=> safe_string,
+                Utf8Error => None,
+                Err(_) => None
+            }    
+        },
         Some(Err(err)) => {
             println!("Failed to parse json: {:?}", err);
             None
@@ -81,7 +91,8 @@ fn parse_olx_page<T: Deserialize<'static>>(xml: &str) -> Option<T> {
                 b"script" => {
                     let element_attr = element.attributes().last();
                     println!("Element attr: {:#?}", element_attr);
-                    get_safe_data_json_value(element_attr);
+                    let attribute = get_safe_data_json_value(element_attr);
+            
                 }
                 _ => (),
             },
