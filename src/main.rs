@@ -1,6 +1,6 @@
 #![feature(associated_type_bounds)]
 #![feature(option_result_unwrap_unchecked)]
-use futures::future::try_join_all; // 0.3.8
+use futures::future::*; // 0.3.8
 extern crate regex;
 use regex::Regex;
 
@@ -11,42 +11,17 @@ use serde_json::Value;
 
 #[path = "./types/olx-results.rs"]
 pub mod olx_results;
-use actix_web::{get, post, web, App, HttpResponse, HttpServer, Responder};
 use olx_results::OlxResults;
 
-#[get("/")]
-async fn hello() -> impl Responder {
-    HttpResponse::Ok().body("Hello world!")
-}
-
-#[post("/echo")]
-async fn echo(req_body: String) -> impl Responder {
-    HttpResponse::Ok().body(req_body)
-}
-async fn manual_hello() -> impl Responder {
-    HttpResponse::Ok().body("Hey there!")
-}
-
-#[actix_web::main]
-async fn main() -> std::io::Result<()> {
-    HttpServer::new(|| {
-        App::new()
-            .service(hello)
-            .service(echo)
-            .route("/hey", web::get().to(manual_hello))
-    })
-    .bind("127.0.0.1:8080")?
-    .run()
-    .await
-}
-async fn get_olx_results_data(term: &str) {
-    let olx_results = get_olx_results(term).await;
+#[tokio::main]
+async fn main() {
+    let olx_results = get_olx_results("ps4").await;
     let all_results_data = olx_results
         .iter()
         .map(|ad_url| get_ad_data(&ad_url[..]))
         .collect::<Vec<_>>();
-    let joined_data = try_join_all(all_results_data).await.unwrap();
-    println!("{:?}", joined_data);
+    let joined_data = join_all(all_results_data).await;
+    println!("joined {:#?} results", joined_data.len());
 }
 
 async fn get_olx_results(term: &str) -> Vec<String> {
@@ -60,14 +35,13 @@ async fn get_olx_results(term: &str) -> Vec<String> {
     }
 }
 
-async fn get_ad_data(link: &str) -> Result<Value, serde_json::Error> {
+async fn get_ad_data(link: &str) -> Value {
     let client = Client::new();
     let result = client.get(link).send().await.unwrap();
     let text_result = result.text().await.unwrap();
     let raw_data = get_data_json(&text_result[..]);
     let json_data: Result<Value, serde_json::Error> = serde_json::from_str(&raw_data[..]);
-    println!("parsed: {:?}", json_data);
-    return json_data;
+    return json_data.unwrap_or_default();
 }
 
 fn get_data_json(xml: &str) -> String {
