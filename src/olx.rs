@@ -1,55 +1,34 @@
 #![feature(associated_type_bounds)]
 #![feature(option_result_unwrap_unchecked)]
+extern crate futures;
 use futures::future::try_join_all; // 0.3.8
+use futures::prelude::*;
+
 extern crate regex;
 use regex::Regex;
 
-use reqwest::{Client, Error}; // 0.10.9
-use tokio;
-extern crate futures;
-use serde_json::Value;
+use reqwest::{Client, Error};
+use serde_json::Value; // 0.10.9
 
 #[path = "./types/olx-results.rs"]
 pub mod olx_results;
-use actix_web::{get, post, web, App, HttpResponse, HttpServer, Responder};
 use olx_results::OlxResults;
 
-#[get("/")]
-async fn hello() -> impl Responder {
-    HttpResponse::Ok().body("Hello world!")
-}
-
-#[post("/echo")]
-async fn echo(req_body: String) -> impl Responder {
-    HttpResponse::Ok().body(req_body)
-}
-async fn manual_hello() -> impl Responder {
-    HttpResponse::Ok().body("Hey there!")
-}
-
-#[actix_web::main]
-async fn main() -> std::io::Result<()> {
-    HttpServer::new(|| {
-        App::new()
-            .service(hello)
-            .service(echo)
-            .route("/hey", web::get().to(manual_hello))
-    })
-    .bind("127.0.0.1:8080")?
-    .run()
-    .await
-}
-async fn get_olx_results_data(term: &str) {
-    let olx_results = get_olx_results(term).await;
+async fn get_results_async(term: &str) -> std::vec::Vec<serde_json::Value> {
+    let olx_results = get_olx_urls(term).await;
     let all_results_data = olx_results
         .iter()
         .map(|ad_url| get_ad_data(&ad_url[..]))
         .collect::<Vec<_>>();
     let joined_data = try_join_all(all_results_data).await.unwrap();
-    println!("{:?}", joined_data);
+    return joined_data;
 }
 
-async fn get_olx_results(term: &str) -> Vec<String> {
+pub fn get_results(term: &str) -> Box<Future<Item = std::vec::Vec<serde_json::Value>>> {
+    return get_results_async(term);
+}
+
+async fn get_olx_urls(term: &str) -> Vec<String> {
     let olx_results = search_olx(term).await.expect("Failed to retrieve results");
     let data_json_value = get_data_json(&olx_results);
     println!("trying to parse: {}", &data_json_value);

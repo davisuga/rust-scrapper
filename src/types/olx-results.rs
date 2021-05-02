@@ -88,7 +88,7 @@ pub struct AccountActivityStatus {
 pub struct Image {
     pub original: String,
     pub original_alt: String,
-    pub thumbnail: String,
+    pub thumbnail: Option<String>,
 }
 
 #[derive(Default, Debug, Clone, PartialEq, Serialize, Deserialize)]

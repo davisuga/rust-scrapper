@@ -1,0 +1,4731 @@
+{
+  "listingProps": {
+    "baseUrl": "https://mg.olx.com.br/belo-horizonte-e-regiao?q=ps4",
+    "olxPayEligibile": true,
+    "filters": {
+      "keyword": "ps4",
+      "region": 31,
+      "state": 2,
+      "sorting": "relevance",
+      "selectedAdTypes": ["1", "0"],
+      "pageIndex": 1
+    },
+    "searchBoxProps": {
+      "keyword": "ps4",
+      "mode": "seeMoreList",
+      "categories": [
+        {
+          "value": "3020",
+          "leaf": "1",
+          "level": "1",
+          "name": "Videogames",
+          "parent": "3000",
+          "friendlyName": "videogames",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames?q=ps4",
+          "count": 2340
+        },
+        {
+          "value": "3040",
+          "leaf": "1",
+          "level": "1",
+          "name": "Computadores e acessórios",
+          "parent": "3000",
+          "friendlyName": "computadores-e-acessorios",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/computadores-e-acessorios?q=ps4",
+          "count": 245
+        },
+        {
+          "value": "3060",
+          "leaf": "1",
+          "level": "1",
+          "name": "Celulares e telefonia",
+          "parent": "3000",
+          "friendlyName": "celulares",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares?q=ps4",
+          "count": 163
+        },
+        {
+          "value": "1001",
+          "breadcrumb_name": "Venda",
+          "leaf": "1",
+          "level": "1",
+          "min_location": "sd_id",
+          "name": "Venda - casas e apartamentos",
+          "parent": "1000",
+          "friendlyName": "imoveis/venda",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/imoveis/venda?q=ps4",
+          "count": 111
+        },
+        {
+          "value": "3080",
+          "leaf": "1",
+          "level": "1",
+          "name": "Áudio, TV, vídeo e fotografia",
+          "parent": "3000",
+          "friendlyName": "audio-tv-video-e-fotografia",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/audio-tv-video-e-fotografia?q=ps4",
+          "count": 79
+        },
+        {
+          "value": "11040",
+          "leaf": "1",
+          "level": "1",
+          "name": "CDs, DVDs etc",
+          "parent": "11000",
+          "friendlyName": "cds-dvds",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/cds-dvds?q=ps4",
+          "count": 47
+        },
+        {
+          "value": "6060",
+          "leaf": "1",
+          "level": "1",
+          "name": "Ciclismo",
+          "parent": "6000",
+          "friendlyName": "ciclismo",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/ciclismo?q=ps4",
+          "count": 26
+        },
+        {
+          "value": "1100",
+          "leaf": "1",
+          "level": "1",
+          "min_location": "sd_id",
+          "name": "Terrenos, sítios e fazendas",
+          "parent": "1000",
+          "friendlyName": "imoveis/terrenos",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/imoveis/terrenos?q=ps4",
+          "count": 25
+        },
+        {
+          "value": "2100",
+          "level": "1",
+          "name": "Peças e acessórios",
+          "parent": "2000",
+          "friendlyName": "autos-e-pecas/pecas-e-acessorios",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/pecas-e-acessorios?q=ps4",
+          "count": 25
+        },
+        {
+          "value": "8080",
+          "leaf": "1",
+          "level": "1",
+          "name": "Bijouterias, relógios e acessórios",
+          "parent": "8000",
+          "friendlyName": "bijouteria-relogios-e-acessorios",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/bijouteria-relogios-e-acessorios?q=ps4",
+          "count": 25
+        },
+        {
+          "value": "2020",
+          "leaf": "1",
+          "level": "1",
+          "name": "Carros, vans e utilitários",
+          "parent": "2000",
+          "friendlyName": "autos-e-pecas/carros-vans-e-utilitarios",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/carros-vans-e-utilitarios?q=ps4",
+          "count": 24
+        },
+        {
+          "value": "9020",
+          "leaf": "1",
+          "level": "1",
+          "name": "Artigos infantis",
+          "parent": "9000",
+          "friendlyName": "artigos-infantis",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/artigos-infantis?q=ps4",
+          "count": 24
+        },
+        {
+          "value": "11020",
+          "leaf": "1",
+          "level": "1",
+          "name": "Instrumentos musicais",
+          "parent": "11000",
+          "friendlyName": "instrumentos-musicais",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/instrumentos-musicais?q=ps4",
+          "count": 20
+        },
+        {
+          "value": "11100",
+          "leaf": "1",
+          "level": "1",
+          "name": "Hobbies e coleções",
+          "parent": "11000",
+          "friendlyName": "hobbies-e-colecoes",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/hobbies-e-colecoes?q=ps4",
+          "count": 15
+        },
+        {
+          "value": "6020",
+          "leaf": "1",
+          "level": "1",
+          "name": "Esportes e ginástica",
+          "parent": "6000",
+          "friendlyName": "esportes-e-ginastica",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/esportes-e-ginastica?q=ps4",
+          "count": 10
+        },
+        {
+          "value": "7060",
+          "leaf": "1",
+          "level": "1",
+          "name": "Serviços",
+          "parent": "7000",
+          "friendlyName": "servicos",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/servicos?q=ps4",
+          "count": 10
+        },
+        {
+          "value": "8040",
+          "leaf": "1",
+          "level": "1",
+          "name": "Roupas e calçados",
+          "parent": "8000",
+          "friendlyName": "roupas-e-calcados",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/roupas-e-calcados?q=ps4",
+          "count": 10
+        },
+        {
+          "value": "11060",
+          "leaf": "1",
+          "level": "1",
+          "name": "Livros e revistas",
+          "parent": "11000",
+          "friendlyName": "livros-e-revistas",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/livros-e-revistas?q=ps4",
+          "count": 10
+        },
+        {
+          "value": "5020",
+          "leaf": "1",
+          "level": "1",
+          "name": "Móveis",
+          "parent": "5000",
+          "friendlyName": "moveis",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/moveis?q=ps4",
+          "count": 8
+        },
+        {
+          "value": "5040",
+          "leaf": "1",
+          "level": "1",
+          "name": "Eletrodomésticos",
+          "parent": "5000",
+          "friendlyName": "eletrodomesticos",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/eletrodomesticos?q=ps4",
+          "count": 7
+        },
+        {
+          "value": "2060",
+          "leaf": "1",
+          "level": "1",
+          "name": "Motos",
+          "parent": "2000",
+          "friendlyName": "autos-e-pecas/motos",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/motos?q=ps4",
+          "count": 5
+        },
+        {
+          "value": "5080",
+          "leaf": "1",
+          "level": "1",
+          "name": "Utilidades domésticas",
+          "parent": "5000",
+          "friendlyName": "utilidades-domesticas",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/utilidades-domesticas?q=ps4",
+          "count": 5
+        },
+        {
+          "value": "10040",
+          "leaf": "1",
+          "level": "1",
+          "name": "Cachorros",
+          "parent": "10000",
+          "friendlyName": "animais-de-estimacao/cachorros",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/animais-de-estimacao/cachorros?q=ps4",
+          "count": 5
+        },
+        {
+          "value": "12060",
+          "leaf": "1",
+          "level": "1",
+          "name": "Equipamentos e mobiliário",
+          "parent": "14000",
+          "friendlyName": "comercio-e-escritorio/equipamentos-e-mobiliario",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/comercio-e-escritorio/equipamentos-e-mobiliario?q=ps4",
+          "count": 5
+        },
+        {
+          "value": "5060",
+          "leaf": "1",
+          "level": "1",
+          "name": "Materiais de construção e jardim",
+          "parent": "5000",
+          "friendlyName": "materiais-de-construcao-e-jardim",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/materiais-de-construcao-e-jardim?q=ps4",
+          "count": 3
+        },
+        {
+          "value": "8020",
+          "leaf": "1",
+          "level": "1",
+          "name": "Beleza e saúde",
+          "parent": "8000",
+          "friendlyName": "beleza-e-saude",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/beleza-e-saude?q=ps4",
+          "count": 3
+        },
+        {
+          "value": "8060",
+          "leaf": "1",
+          "level": "1",
+          "name": "Bolsas, malas e mochilas",
+          "parent": "8000",
+          "friendlyName": "bolsas-malas-e-mochilas",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/bolsas-malas-e-mochilas?q=ps4",
+          "count": 3
+        },
+        {
+          "value": "1120",
+          "leaf": "1",
+          "level": "1",
+          "min_location": "sd_id",
+          "name": "Comércio e indústria",
+          "parent": "1000",
+          "friendlyName": "imoveis/comercio-e-industria",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/imoveis/comercio-e-industria?q=ps4",
+          "count": 2
+        },
+        {
+          "value": "5100",
+          "leaf": "1",
+          "level": "1",
+          "name": "Objetos de decoração",
+          "parent": "5000",
+          "friendlyName": "objetos-de-decoracao",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/objetos-de-decoracao?q=ps4",
+          "count": 2
+        },
+        {
+          "value": "7080",
+          "leaf": "1",
+          "level": "1",
+          "name": "Outros itens para comércio e escritório",
+          "parent": "14000",
+          "friendlyName": "comercio-e-escritorio/outros-itens-para-comercio-e-escritorio",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/comercio-e-escritorio/outros-itens-para-comercio-e-escritorio?q=ps4",
+          "count": 2
+        },
+        {
+          "value": "1002",
+          "breadcrumb_name": "Aluguel",
+          "leaf": "1",
+          "level": "1",
+          "min_location": "sd_id",
+          "name": "Aluguel - casas e apartamentos",
+          "parent": "1000",
+          "friendlyName": "imoveis/aluguel",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/imoveis/aluguel?q=ps4",
+          "count": 1
+        },
+        {
+          "value": "2040",
+          "leaf": "1",
+          "level": "1",
+          "name": "Caminhões",
+          "parent": "2000",
+          "friendlyName": "autos-e-pecas/caminhoes",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/caminhoes?q=ps4",
+          "count": 1
+        }
+      ],
+      "searchByTitle": false,
+      "searchLinks": [
+        {
+          "label": "Início",
+          "url": "https://mg.olx.com.br/belo-horizonte-e-regiao"
+        }
+      ],
+      "blackFridayLink": "https://mg.olx.com.br/belo-horizonte-e-regiao?q=ps4&amp;op=2"
+    },
+    "listingHeaderProps": {
+      "availableOrders": [
+        {
+          "value": 1,
+          "label": "Mais Recentes",
+          "lurkerEvent": "sort_recently"
+        },
+        {
+          "value": 2,
+          "label": "Mais Relevantes",
+          "lurkerEvent": "sort_relevance"
+        },
+        { "value": 3, "label": "Menor Preço", "lurkerEvent": "sort_price" }
+      ],
+      "currentOrder": 2,
+      "currentOrderSortingName": "relevance",
+      "searchResultContext": null,
+      "adTypes": [
+        {
+          "label": "Todos os anúncios",
+          "count": 3261,
+          "value": 1,
+          "filterValue": ["0", "1"],
+          "lurkerEvent": "filter_all"
+        },
+        {
+          "label": "Particulares",
+          "count": 2984,
+          "value": 2,
+          "filterValue": ["0"],
+          "subtitle": "(2984)",
+          "lurkerEvent": "filter_private_ad"
+        },
+        {
+          "label": "Profissionais",
+          "count": 277,
+          "value": 3,
+          "filterValue": ["1"],
+          "subtitle": "(277)",
+          "lurkerEvent": "filter_professional_ad"
+        }
+      ],
+      "currentAdType": 1,
+      "payShipOptions": [
+        {
+          "label": "Todos os anúncios",
+          "value": 0,
+          "filterValue": 0,
+          "lurkerEvent": "filter_all_payments"
+        },
+        {
+          "label": "",
+          "description": "Anúncios que aceitam a OLX Pay como forma de pagamento.",
+          "value": 1,
+          "filterValue": 1,
+          "subtitle": "",
+          "lurkerEvent": "filter_olx_pay",
+          "icon": "OlxPayBadge"
+        },
+        {
+          "label": "",
+          "description": "Anúncios que aceitam a OLX Pay com entrega.",
+          "value": 2,
+          "filterValue": 2,
+          "subtitle": "",
+          "lurkerEvent": "filter_olx_pay_ship",
+          "icon": "OLXPayPlusDelivery"
+        }
+      ],
+      "currentPayShip": 0,
+      "olxPayFilterAB": true
+    },
+    "categories": [
+      {
+        "value": "3020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Videogames",
+        "parent": "3000",
+        "friendlyName": "videogames",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames?q=ps4",
+        "count": 2340
+      },
+      {
+        "value": "3040",
+        "leaf": "1",
+        "level": "1",
+        "name": "Computadores e acessórios",
+        "parent": "3000",
+        "friendlyName": "computadores-e-acessorios",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/computadores-e-acessorios?q=ps4",
+        "count": 245
+      },
+      {
+        "value": "3060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Celulares e telefonia",
+        "parent": "3000",
+        "friendlyName": "celulares",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares?q=ps4",
+        "count": 163
+      },
+      {
+        "value": "1001",
+        "breadcrumb_name": "Venda",
+        "leaf": "1",
+        "level": "1",
+        "min_location": "sd_id",
+        "name": "Venda - casas e apartamentos",
+        "parent": "1000",
+        "friendlyName": "imoveis/venda",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/imoveis/venda?q=ps4",
+        "count": 111
+      },
+      {
+        "value": "3080",
+        "leaf": "1",
+        "level": "1",
+        "name": "Áudio, TV, vídeo e fotografia",
+        "parent": "3000",
+        "friendlyName": "audio-tv-video-e-fotografia",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/audio-tv-video-e-fotografia?q=ps4",
+        "count": 79
+      },
+      {
+        "value": "11040",
+        "leaf": "1",
+        "level": "1",
+        "name": "CDs, DVDs etc",
+        "parent": "11000",
+        "friendlyName": "cds-dvds",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/cds-dvds?q=ps4",
+        "count": 47
+      },
+      {
+        "value": "6060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Ciclismo",
+        "parent": "6000",
+        "friendlyName": "ciclismo",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/ciclismo?q=ps4",
+        "count": 26
+      },
+      {
+        "value": "1100",
+        "leaf": "1",
+        "level": "1",
+        "min_location": "sd_id",
+        "name": "Terrenos, sítios e fazendas",
+        "parent": "1000",
+        "friendlyName": "imoveis/terrenos",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/imoveis/terrenos?q=ps4",
+        "count": 25
+      },
+      {
+        "value": "2100",
+        "level": "1",
+        "name": "Peças e acessórios",
+        "parent": "2000",
+        "friendlyName": "autos-e-pecas/pecas-e-acessorios",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/pecas-e-acessorios?q=ps4",
+        "count": 25
+      },
+      {
+        "value": "8080",
+        "leaf": "1",
+        "level": "1",
+        "name": "Bijouterias, relógios e acessórios",
+        "parent": "8000",
+        "friendlyName": "bijouteria-relogios-e-acessorios",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/bijouteria-relogios-e-acessorios?q=ps4",
+        "count": 25
+      },
+      {
+        "value": "2020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Carros, vans e utilitários",
+        "parent": "2000",
+        "friendlyName": "autos-e-pecas/carros-vans-e-utilitarios",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/carros-vans-e-utilitarios?q=ps4",
+        "count": 24
+      },
+      {
+        "value": "9020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Artigos infantis",
+        "parent": "9000",
+        "friendlyName": "artigos-infantis",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/artigos-infantis?q=ps4",
+        "count": 24
+      },
+      {
+        "value": "11020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Instrumentos musicais",
+        "parent": "11000",
+        "friendlyName": "instrumentos-musicais",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/instrumentos-musicais?q=ps4",
+        "count": 20
+      },
+      {
+        "value": "11100",
+        "leaf": "1",
+        "level": "1",
+        "name": "Hobbies e coleções",
+        "parent": "11000",
+        "friendlyName": "hobbies-e-colecoes",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/hobbies-e-colecoes?q=ps4",
+        "count": 15
+      },
+      {
+        "value": "6020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Esportes e ginástica",
+        "parent": "6000",
+        "friendlyName": "esportes-e-ginastica",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/esportes-e-ginastica?q=ps4",
+        "count": 10
+      },
+      {
+        "value": "7060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Serviços",
+        "parent": "7000",
+        "friendlyName": "servicos",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/servicos?q=ps4",
+        "count": 10
+      },
+      {
+        "value": "8040",
+        "leaf": "1",
+        "level": "1",
+        "name": "Roupas e calçados",
+        "parent": "8000",
+        "friendlyName": "roupas-e-calcados",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/roupas-e-calcados?q=ps4",
+        "count": 10
+      },
+      {
+        "value": "11060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Livros e revistas",
+        "parent": "11000",
+        "friendlyName": "livros-e-revistas",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/livros-e-revistas?q=ps4",
+        "count": 10
+      },
+      {
+        "value": "5020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Móveis",
+        "parent": "5000",
+        "friendlyName": "moveis",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/moveis?q=ps4",
+        "count": 8
+      },
+      {
+        "value": "5040",
+        "leaf": "1",
+        "level": "1",
+        "name": "Eletrodomésticos",
+        "parent": "5000",
+        "friendlyName": "eletrodomesticos",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/eletrodomesticos?q=ps4",
+        "count": 7
+      },
+      {
+        "value": "2060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Motos",
+        "parent": "2000",
+        "friendlyName": "autos-e-pecas/motos",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/motos?q=ps4",
+        "count": 5
+      },
+      {
+        "value": "5080",
+        "leaf": "1",
+        "level": "1",
+        "name": "Utilidades domésticas",
+        "parent": "5000",
+        "friendlyName": "utilidades-domesticas",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/utilidades-domesticas?q=ps4",
+        "count": 5
+      },
+      {
+        "value": "10040",
+        "leaf": "1",
+        "level": "1",
+        "name": "Cachorros",
+        "parent": "10000",
+        "friendlyName": "animais-de-estimacao/cachorros",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/animais-de-estimacao/cachorros?q=ps4",
+        "count": 5
+      },
+      {
+        "value": "12060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Equipamentos e mobiliário",
+        "parent": "14000",
+        "friendlyName": "comercio-e-escritorio/equipamentos-e-mobiliario",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/comercio-e-escritorio/equipamentos-e-mobiliario?q=ps4",
+        "count": 5
+      },
+      {
+        "value": "5060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Materiais de construção e jardim",
+        "parent": "5000",
+        "friendlyName": "materiais-de-construcao-e-jardim",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/materiais-de-construcao-e-jardim?q=ps4",
+        "count": 3
+      },
+      {
+        "value": "8020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Beleza e saúde",
+        "parent": "8000",
+        "friendlyName": "beleza-e-saude",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/beleza-e-saude?q=ps4",
+        "count": 3
+      },
+      {
+        "value": "8060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Bolsas, malas e mochilas",
+        "parent": "8000",
+        "friendlyName": "bolsas-malas-e-mochilas",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/bolsas-malas-e-mochilas?q=ps4",
+        "count": 3
+      },
+      {
+        "value": "1120",
+        "leaf": "1",
+        "level": "1",
+        "min_location": "sd_id",
+        "name": "Comércio e indústria",
+        "parent": "1000",
+        "friendlyName": "imoveis/comercio-e-industria",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/imoveis/comercio-e-industria?q=ps4",
+        "count": 2
+      },
+      {
+        "value": "5100",
+        "leaf": "1",
+        "level": "1",
+        "name": "Objetos de decoração",
+        "parent": "5000",
+        "friendlyName": "objetos-de-decoracao",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/objetos-de-decoracao?q=ps4",
+        "count": 2
+      },
+      {
+        "value": "7080",
+        "leaf": "1",
+        "level": "1",
+        "name": "Outros itens para comércio e escritório",
+        "parent": "14000",
+        "friendlyName": "comercio-e-escritorio/outros-itens-para-comercio-e-escritorio",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/comercio-e-escritorio/outros-itens-para-comercio-e-escritorio?q=ps4",
+        "count": 2
+      },
+      {
+        "value": "1002",
+        "breadcrumb_name": "Aluguel",
+        "leaf": "1",
+        "level": "1",
+        "min_location": "sd_id",
+        "name": "Aluguel - casas e apartamentos",
+        "parent": "1000",
+        "friendlyName": "imoveis/aluguel",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/imoveis/aluguel?q=ps4",
+        "count": 1
+      },
+      {
+        "value": "2040",
+        "leaf": "1",
+        "level": "1",
+        "name": "Caminhões",
+        "parent": "2000",
+        "friendlyName": "autos-e-pecas/caminhoes",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/caminhoes?q=ps4",
+        "count": 1
+      }
+    ],
+    "mode": "seeMoreList",
+    "locations": [
+      {
+        "value": 1,
+        "level": "national",
+        "label": "Brasil",
+        "url": "https://www.olx.com.br/brasil?q=ps4"
+      },
+      {
+        "value": "2",
+        "level": "state",
+        "label": "MG",
+        "url": "https://mg.olx.com.br/?q=ps4"
+      },
+      {
+        "value": "31",
+        "level": "region",
+        "label": "DDD 31 - Belo Horizonte e região",
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao?q=ps4"
+      }
+    ],
+    "nextLocations": [
+      {
+        "label": "Capital",
+        "rows": 3,
+        "locations": [
+          {
+            "value": "1695",
+            "label": "Barreiro",
+            "level": "zone",
+            "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/barreiro?q=ps4",
+            "count": 321
+          },
+          {
+            "value": "1468",
+            "label": "Pampulha",
+            "level": "zone",
+            "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/pampulha?q=ps4",
+            "count": 175
+          },
+          {
+            "value": "1344",
+            "label": "Venda Nova",
+            "level": "zone",
+            "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/venda-nova?q=ps4",
+            "count": 315
+          },
+          {
+            "value": "1663",
+            "label": "Zona Centro-sul",
+            "level": "zone",
+            "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/zona-centro-sul?q=ps4",
+            "count": 293
+          },
+          {
+            "value": "1501",
+            "label": "Zona Leste",
+            "level": "zone",
+            "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/zona-leste?q=ps4",
+            "count": 171
+          },
+          {
+            "value": "1622",
+            "label": "Zona Nordeste",
+            "level": "zone",
+            "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/zona-nordeste?q=ps4",
+            "count": 149
+          },
+          {
+            "value": "1425",
+            "label": "Zona Noroeste",
+            "level": "zone",
+            "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/zona-noroeste?q=ps4",
+            "count": 215
+          },
+          {
+            "value": "1371",
+            "label": "Zona Norte",
+            "level": "zone",
+            "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/zona-norte?q=ps4",
+            "count": 132
+          },
+          {
+            "value": "1557",
+            "label": "Zona Oeste",
+            "level": "zone",
+            "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/zona-oeste?q=ps4",
+            "count": 242
+          }
+        ]
+      },
+      {
+        "label": "Outros",
+        "rows": 5,
+        "locations": [
+          {
+            "value": "1762",
+            "label": "Grande Belo Horizonte",
+            "level": "zone",
+            "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/grande-belo-horizonte?q=ps4",
+            "count": 1083
+          },
+          {
+            "value": "1598",
+            "label": "Ouro Preto e Cons. Lafayete",
+            "level": "zone",
+            "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/ouro-preto-e-cons-lafayete?q=ps4",
+            "count": 37
+          },
+          {
+            "value": "1739",
+            "label": "Região de Ipatinga",
+            "level": "zone",
+            "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/regiao-de-ipatinga?q=ps4",
+            "count": 81
+          },
+          {
+            "value": "1402",
+            "label": "Região de Sete Lagoas",
+            "level": "zone",
+            "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/regiao-de-sete-lagoas?q=ps4",
+            "count": 35
+          },
+          {
+            "value": "1523",
+            "label": "Zona da Mata",
+            "level": "zone",
+            "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/zona-da-mata?q=ps4",
+            "count": 8
+          }
+        ]
+      }
+    ],
+    "hasModal": false,
+    "selectedNextLocations": [],
+    "adList": [
+      {
+        "subject": "PS4 SLIM - PS4 - PS4 PRO",
+        "price": "R$ 1.849",
+        "listId": 876170101,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/486131642461539.jpg",
+            "originalAlt": "PS4 SLIM - PS4 - PS4 PRO",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/486131642461539.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-slim-ps4-ps4-pro-876170101",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/486131642461539.jpg",
+        "date": 1619877432,
+        "imageCount": 1,
+        "location": "Belo Horizonte, Lindéia (Barreiro)",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": true },
+        "position": 0,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": true
+      },
+      {
+        "subject": "PS4 SLIM - PS4 PRO - PS4",
+        "price": null,
+        "listId": 875633826,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/46/460152151971579.jpg",
+            "originalAlt": "PS4 SLIM - PS4 PRO - PS4",
+            "thumbnail": "https://img.olx.com.br/thumbs/46/460152151971579.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-slim-ps4-pro-ps4-875633826",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/46/460152151971579.jpg",
+        "date": 1619737238,
+        "imageCount": 1,
+        "location": "Belo Horizonte, Barreiro",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 1,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": true
+      },
+      { "isPubListingItem": true, "pubType": "nativeItemOne" },
+      { "isPubListingItem": true, "geminiPub": true },
+      {
+        "subject": "PS4 PRO - PS4 SLIM - PS4",
+        "price": "R$ 2.499",
+        "listId": 875733956,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/47/476181878780354.jpg",
+            "originalAlt": "PS4 PRO - PS4 SLIM - PS4",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/476181878780354.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/477127391685046.jpg",
+            "originalAlt": "PS4 PRO - PS4 SLIM - PS4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/477127391685046.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/470116279145992.jpg",
+            "originalAlt": "PS4 PRO - PS4 SLIM - PS4 - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/470116279145992.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-pro-ps4-slim-ps4-875733956",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/47/476181878780354.jpg",
+        "date": 1619780456,
+        "imageCount": 3,
+        "location": "Belo Horizonte, Lindéia (Barreiro)",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": true },
+        "position": 2,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": true
+      },
+      {
+        "subject": "PS4 SLIM - PS4 PRO - PS4",
+        "price": "R$ 1.850",
+        "listId": 875195570,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/45/450164752778732.jpg",
+            "originalAlt": "PS4 SLIM - PS4 PRO - PS4",
+            "thumbnail": "https://img.olx.com.br/thumbs/45/450164752778732.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/45/452185757156703.jpg",
+            "originalAlt": "PS4 SLIM - PS4 PRO - PS4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/45/452185757156703.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/45/450186512495171.jpg",
+            "originalAlt": "PS4 SLIM - PS4 PRO - PS4 - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/45/450186512495171.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-slim-ps4-pro-ps4-875195570",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/45/450164752778732.jpg",
+        "date": 1619650836,
+        "imageCount": 3,
+        "location": "Contagem, Cidade Industrial",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 3,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": true
+      },
+      {
+        "subject": "PS4 SLIM - PS4 - PS4 PRO",
+        "price": "R$ 1.850",
+        "listId": 875218166,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/45/450143513901453.jpg",
+            "originalAlt": "PS4 SLIM - PS4 - PS4 PRO",
+            "thumbnail": "https://img.olx.com.br/thumbs/45/450143513901453.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-slim-ps4-ps4-pro-875218166",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/45/450143513901453.jpg",
+        "date": 1619654333,
+        "imageCount": 1,
+        "location": "Belo Horizonte, Barreiro",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 4,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": true
+      },
+      { "isPubListingItem": true, "geminiPub": true },
+      {
+        "subject": "PS4 ",
+        "price": "R$ 1.750",
+        "listId": 876424214,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/49/499121282175928.jpg",
+            "originalAlt": "PS4 ",
+            "thumbnail": "https://img.olx.com.br/thumbs/49/499121282175928.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/49/497184529480658.jpg",
+            "originalAlt": "PS4  - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/49/497184529480658.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/49/498186527049150.jpg",
+            "originalAlt": "PS4  - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/49/498186527049150.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/49/491107289042015.jpg",
+            "originalAlt": "PS4  - Foto 4",
+            "thumbnail": "https://img.olx.com.br/thumbs/49/491107289042015.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-876424214",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/49/499121282175928.jpg",
+        "date": 1619953250,
+        "imageCount": 4,
+        "location": "Pedro Leopoldo",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 5,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "PS4 SLIM - PS4 PRO - PS4 TOP",
+        "price": "R$ 1.850",
+        "listId": 875676325,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/47/472131038289915.jpg",
+            "originalAlt": "PS4 SLIM - PS4 PRO - PS4 TOP",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/472131038289915.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-slim-ps4-pro-ps4-top-875676325",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/47/472131038289915.jpg",
+        "date": 1619745932,
+        "imageCount": 1,
+        "location": "Belo Horizonte, Lindéia (Barreiro)",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": true },
+        "position": 6,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Ps4",
+        "price": "R$ 1.400",
+        "listId": 876198053,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/483104289677603.jpg",
+            "originalAlt": "Ps4",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/483104289677603.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/489188521025805.jpg",
+            "originalAlt": "Ps4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/489188521025805.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-876198053",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/483104289677603.jpg",
+        "date": 1619881245,
+        "imageCount": 2,
+        "location": "Rio Acima",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": true },
+        "position": 7,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "PS4",
+        "price": "R$ 2.000",
+        "listId": 876113964,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/480181883890499.jpg",
+            "originalAlt": "PS4",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/480181883890499.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/488123403551464.jpg",
+            "originalAlt": "PS4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/488123403551464.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-876113964",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/480181883890499.jpg",
+        "date": 1619866865,
+        "imageCount": 2,
+        "location": "Belo Horizonte, Camargos",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 8,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "PS4 ",
+        "price": "R$ 1.600",
+        "listId": 876370959,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/482124408649130.jpg",
+            "originalAlt": "PS4 ",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/482124408649130.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/481155881810780.jpg",
+            "originalAlt": "PS4  - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/481155881810780.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/484124521390802.jpg",
+            "originalAlt": "PS4  - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/484124521390802.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/483175520928958.jpg",
+            "originalAlt": "PS4  - Foto 4",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/483175520928958.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/482126881913790.jpg",
+            "originalAlt": "PS4  - Foto 5",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/482126881913790.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/482116287711834.jpg",
+            "originalAlt": "PS4  - Foto 6",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/482116287711834.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-876370959",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/482124408649130.jpg",
+        "date": 1619913640,
+        "imageCount": 6,
+        "location": "Belo Horizonte, Buritis",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 9,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "ps4 ",
+        "price": "R$ 1.580",
+        "listId": 876324248,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/486165040177116.jpg",
+            "originalAlt": "ps4 ",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/486165040177116.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/488118883427034.jpg",
+            "originalAlt": "ps4  - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/488118883427034.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/484169406214587.jpg",
+            "originalAlt": "ps4  - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/484169406214587.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-876324248",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/486165040177116.jpg",
+        "date": 1619902845,
+        "imageCount": 3,
+        "location": "Belo Horizonte, Santa Mônica",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 10,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Ps4",
+        "price": "R$ 1.620",
+        "listId": 876279054,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/481189161142884.jpg",
+            "originalAlt": "Ps4",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/481189161142884.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/488165643321970.jpg",
+            "originalAlt": "Ps4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/488165643321970.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/488101762980667.jpg",
+            "originalAlt": "Ps4 - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/488101762980667.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/487134404457348.jpg",
+            "originalAlt": "Ps4 - Foto 4",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/487134404457348.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-876279054",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/481189161142884.jpg",
+        "date": 1619894206,
+        "imageCount": 4,
+        "location": "Belo Horizonte, Jardim América",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": true },
+        "position": 11,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "PS4 PRO - PS4 SLIM - PS4",
+        "price": "R$ 2.499",
+        "listId": 874765984,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/44/445148638249042.jpg",
+            "originalAlt": "PS4 PRO - PS4 SLIM - PS4",
+            "thumbnail": "https://img.olx.com.br/thumbs/44/445148638249042.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/44/442142517344019.jpg",
+            "originalAlt": "PS4 PRO - PS4 SLIM - PS4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/44/442142517344019.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/44/442186390816967.jpg",
+            "originalAlt": "PS4 PRO - PS4 SLIM - PS4 - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/44/442186390816967.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-pro-ps4-slim-ps4-874765984",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/44/445148638249042.jpg",
+        "date": 1619571642,
+        "imageCount": 3,
+        "location": "Contagem, Cidade Industrial",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 12,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "PS4 ",
+        "price": "R$ 2.000",
+        "listId": 875863577,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/47/474189275713167.jpg",
+            "originalAlt": "PS4 ",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/474189275713167.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-875863577",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/47/474189275713167.jpg",
+        "date": 1619798439,
+        "imageCount": 1,
+        "location": "Sete Lagoas, Glória",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 13,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Ps4",
+        "price": "R$ 1.900",
+        "listId": 875894718,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": true,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/47/474130510537842.jpg",
+            "originalAlt": "Ps4",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/474130510537842.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-875894718",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/47/474130510537842.jpg",
+        "date": 1619802044,
+        "imageCount": 1,
+        "location": "Belo Horizonte, Milionários (Barreiro)",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 14,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Ps4",
+        "price": "R$ 1.530",
+        "listId": 875866316,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/47/473151275384460.jpg",
+            "originalAlt": "Ps4",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/473151275384460.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/470115758622517.jpg",
+            "originalAlt": "Ps4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/470115758622517.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/472197755489738.jpg",
+            "originalAlt": "Ps4 - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/472197755489738.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/472115036056860.jpg",
+            "originalAlt": "Ps4 - Foto 4",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/472115036056860.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/471106396729260.jpg",
+            "originalAlt": "Ps4 - Foto 5",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/471106396729260.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-875866316",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/47/473151275384460.jpg",
+        "date": 1619798444,
+        "imageCount": 5,
+        "location": "Belo Horizonte, Nova Cachoeirinha",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 15,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "PS4 ",
+        "price": "R$ 1.510",
+        "listId": 875658422,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": true,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/46/462172756941314.jpg",
+            "originalAlt": "PS4 ",
+            "thumbnail": "https://img.olx.com.br/thumbs/46/462172756941314.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-875658422",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/46/462172756941314.jpg",
+        "date": 1619740841,
+        "imageCount": 1,
+        "location": "Belo Horizonte, Milionários (Barreiro)",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 16,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "ps4",
+        "price": "R$ 2.300",
+        "listId": 875700516,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/47/476144158294513.jpg",
+            "originalAlt": "ps4",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/476144158294513.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/479144510109095.jpg",
+            "originalAlt": "ps4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/479144510109095.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/478184518008684.jpg",
+            "originalAlt": "ps4 - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/478184518008684.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/470161033863336.jpg",
+            "originalAlt": "ps4 - Foto 4",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/470161033863336.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/473158755572640.jpg",
+            "originalAlt": "ps4 - Foto 5",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/473158755572640.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/472163756945177.jpg",
+            "originalAlt": "ps4 - Foto 6",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/472163756945177.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-875700516",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/47/476144158294513.jpg",
+        "date": 1619752669,
+        "imageCount": 6,
+        "location": "Belo Horizonte, Jardim São José",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 17,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Ps4 ",
+        "price": "R$ 2.200",
+        "listId": 875698325,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": "R$ 2.300",
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/47/478103510522698.jpg",
+            "originalAlt": "Ps4 ",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/478103510522698.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/475194751226237.jpg",
+            "originalAlt": "Ps4  - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/475194751226237.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/475191390942676.jpg",
+            "originalAlt": "Ps4  - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/475191390942676.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/478110151043418.jpg",
+            "originalAlt": "Ps4  - Foto 4",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/478110151043418.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/477185751403386.jpg",
+            "originalAlt": "Ps4  - Foto 5",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/477185751403386.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-875698325",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/47/478103510522698.jpg",
+        "date": 1619751569,
+        "imageCount": 5,
+        "location": "Belo Horizonte, Jardim São José",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 18,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "PS4",
+        "price": "R$ 2.500",
+        "listId": 875420678,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/46/460107757111532.jpg",
+            "originalAlt": "PS4",
+            "thumbnail": "https://img.olx.com.br/thumbs/46/460107757111532.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/46/466176152527541.jpg",
+            "originalAlt": "PS4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/46/466176152527541.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/46/468172510094899.jpg",
+            "originalAlt": "PS4 - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/46/468172510094899.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/46/468126150378460.jpg",
+            "originalAlt": "PS4 - Foto 4",
+            "thumbnail": "https://img.olx.com.br/thumbs/46/468126150378460.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-875420678",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/46/460107757111532.jpg",
+        "date": 1619708446,
+        "imageCount": 4,
+        "location": "Belo Horizonte, Ouro Minas",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 19,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Ps4",
+        "price": "R$ 1.500",
+        "listId": 875591993,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": true,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/46/466106635911029.jpg",
+            "originalAlt": "Ps4",
+            "thumbnail": "https://img.olx.com.br/thumbs/46/466106635911029.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-875591993",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/46/466106635911029.jpg",
+        "date": 1619730036,
+        "imageCount": 1,
+        "location": "Belo Horizonte, Milionários (Barreiro)",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 20,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Ps4 ",
+        "price": "R$ 1.650",
+        "listId": 875306788,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/46/464162036162218.jpg",
+            "originalAlt": "Ps4 ",
+            "thumbnail": "https://img.olx.com.br/thumbs/46/464162036162218.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/46/468111510718472.jpg",
+            "originalAlt": "Ps4  - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/46/468111510718472.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/artigos-infantis/ps4-875306788",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/46/464162036162218.jpg",
+        "date": 1619694050,
+        "imageCount": 2,
+        "location": "Belo Horizonte, Centro",
+        "category": "Artigos infantis",
+        "searchCategoryLevelZero": 9000,
+        "searchCategoryLevelOne": 9020,
+        "properties": [
+          {
+            "name": "category",
+            "label": "Categoria",
+            "value": "Artigos infantis"
+          },
+          {
+            "name": "baby_type",
+            "label": "Tipo",
+            "value": "Brinquedos e jogos"
+          },
+          { "name": "condition", "label": "Novo/Usado", "value": "Usado" }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 21,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      { "isPubListingItem": true, "pubType": "nativeItemTwo" },
+      {
+        "subject": "PS4 SLIM - PS4 PRO",
+        "price": "R$ 1.849",
+        "listId": 874732615,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/44/448108395700824.jpg",
+            "originalAlt": "PS4 SLIM - PS4 PRO",
+            "thumbnail": "https://img.olx.com.br/thumbs/44/448108395700824.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-slim-ps4-pro-874732615",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/44/448108395700824.jpg",
+        "date": 1619565604,
+        "imageCount": 1,
+        "location": "Contagem, Cidade Industrial",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 22,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Ps4 novo",
+        "price": "R$ 1.950",
+        "listId": 876426549,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
+            "originalAlt": "Anúncio sem foto",
+            "isNoPhotoPlaceholder": true
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-novo-876426549",
+        "thumbnail": "https://static.olx.com.br/cd/listing/notFound.png",
+        "date": 1619953137,
+        "imageCount": 0,
+        "location": "Belo Horizonte, Sagrada Família",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Acessórios" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 23,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "PES PS4",
+        "price": "R$ 120",
+        "listId": 876377061,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": "R$ 145",
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/49/497100285583012.jpg",
+            "originalAlt": "PES PS4",
+            "thumbnail": "https://img.olx.com.br/thumbs/49/497100285583012.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/49/495196162425898.jpg",
+            "originalAlt": "PES PS4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/49/495196162425898.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/pes-ps4-876377061",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/49/497100285583012.jpg",
+        "date": 1619915986,
+        "imageCount": 2,
+        "location": "Belo Horizonte, São Bernardo",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 24,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Troco PS4",
+        "price": "R$ 1.850",
+        "listId": 876358479,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/488100280017069.jpg",
+            "originalAlt": "Troco PS4",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/488100280017069.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/480154643440213.jpg",
+            "originalAlt": "Troco PS4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/480154643440213.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/488163642713473.jpg",
+            "originalAlt": "Troco PS4 - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/488163642713473.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/troco-ps4-876358479",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/488100280017069.jpg",
+        "date": 1619910276,
+        "imageCount": 3,
+        "location": "Belo Horizonte, Boa Vista",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 25,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Jogos ps4",
+        "price": "R$ 150",
+        "listId": 876282956,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/489153401287484.jpg",
+            "originalAlt": "Jogos ps4",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/489153401287484.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/jogos-ps4-876282956",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/489153401287484.jpg",
+        "date": 1619895125,
+        "imageCount": 1,
+        "location": "Conselheiro Lafaiete, Satélite",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 26,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Jogos PS4 ",
+        "price": "R$ 90",
+        "listId": 876164869,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/480116641718739.jpg",
+            "originalAlt": "Jogos PS4 ",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/480116641718739.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/484131762037975.jpg",
+            "originalAlt": "Jogos PS4  - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/484131762037975.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/jogos-ps4-876164869",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/480116641718739.jpg",
+        "date": 1619876392,
+        "imageCount": 2,
+        "location": "Belo Horizonte, Santa Cruz",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": true },
+        "position": 27,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Ps4  ",
+        "price": "R$ 1.950",
+        "listId": 874422615,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/44/442125517510129.jpg",
+            "originalAlt": "Ps4  ",
+            "thumbnail": "https://img.olx.com.br/thumbs/44/442125517510129.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/44/440166519537535.jpg",
+            "originalAlt": "Ps4   - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/44/440166519537535.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/artigos-infantis/ps4-874422615",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/44/442125517510129.jpg",
+        "date": 1619528437,
+        "imageCount": 2,
+        "location": "Belo Horizonte, Centro",
+        "category": "Artigos infantis",
+        "searchCategoryLevelZero": 9000,
+        "searchCategoryLevelOne": 9020,
+        "properties": [
+          {
+            "name": "category",
+            "label": "Categoria",
+            "value": "Artigos infantis"
+          },
+          {
+            "name": "baby_type",
+            "label": "Tipo",
+            "value": "Brinquedos e jogos"
+          },
+          { "name": "condition", "label": "Novo/Usado", "value": "Usado" }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 28,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Jogos PS4",
+        "price": "R$ 29",
+        "listId": 876133987,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/480131161340412.jpg",
+            "originalAlt": "Jogos PS4",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/480131161340412.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/jogos-ps4-876133987",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/480131161340412.jpg",
+        "date": 1619870445,
+        "imageCount": 1,
+        "location": "Belo Horizonte, Prado",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": true },
+        "position": 29,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "ps4 500gb",
+        "price": "R$ 1.450",
+        "listId": 876488119,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/49/497171883888452.jpg",
+            "originalAlt": "ps4 500gb",
+            "thumbnail": "https://img.olx.com.br/thumbs/49/497171883888452.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/49/493107528499046.jpg",
+            "originalAlt": "ps4 500gb - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/49/493107528499046.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/49/494186641166579.jpg",
+            "originalAlt": "ps4 500gb - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/49/494186641166579.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/49/498176761248656.jpg",
+            "originalAlt": "ps4 500gb - Foto 4",
+            "thumbnail": "https://img.olx.com.br/thumbs/49/498176761248656.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-500gb-876488119",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/49/497171883888452.jpg",
+        "date": 1619967642,
+        "imageCount": 4,
+        "location": "Belo Horizonte, Betânia",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": true },
+        "position": 30,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Padles ps4",
+        "price": "R$ 85",
+        "listId": 876454858,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/49/493114761580243.jpg",
+            "originalAlt": "Padles ps4",
+            "thumbnail": "https://img.olx.com.br/thumbs/49/493114761580243.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/49/490160408035424.jpg",
+            "originalAlt": "Padles ps4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/49/490160408035424.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/padles-ps4-876454858",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/49/493114761580243.jpg",
+        "date": 1619960786,
+        "imageCount": 2,
+        "location": "Sarzedo",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Acessórios" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": true },
+        "position": 31,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      { "isPubListingItem": true, "pubType": "nativeItemFour" },
+      {
+        "subject": "Jogos PS4",
+        "price": "R$ 29",
+        "listId": 876451881,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/49/496130044500106.jpg",
+            "originalAlt": "Jogos PS4",
+            "thumbnail": "https://img.olx.com.br/thumbs/49/496130044500106.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/jogos-ps4-876451881",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/49/496130044500106.jpg",
+        "date": 1619960440,
+        "imageCount": 1,
+        "location": "Belo Horizonte, Prado",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 32,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "jogos ps4",
+        "price": "R$ 59",
+        "listId": 876028971,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/47/472187753948545.jpg",
+            "originalAlt": "jogos ps4",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/472187753948545.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/jogos-ps4-876028971",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/47/472187753948545.jpg",
+        "date": 1619823639,
+        "imageCount": 1,
+        "location": "Belo Horizonte, Guarani",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 33,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Jogos de ps4 ",
+        "price": "R$ 60",
+        "listId": 876343890,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/481128767313984.jpg",
+            "originalAlt": "Jogos de ps4 ",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/481128767313984.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/484125765730891.jpg",
+            "originalAlt": "Jogos de ps4  - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/484125765730891.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/jogos-de-ps4-876343890",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/481128767313984.jpg",
+        "date": 1619907073,
+        "imageCount": 2,
+        "location": "Belo Horizonte, Venda Nova",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 34,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "PS4 1TB",
+        "price": "R$ 2.600",
+        "listId": 874195662,
+        "lastBumpAgeSecs": "65118",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/43/433183394970182.jpg",
+            "originalAlt": "PS4 1TB",
+            "thumbnail": "https://img.olx.com.br/thumbs/43/433183394970182.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/43/430122277461700.jpg",
+            "originalAlt": "PS4 1TB - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/43/430122277461700.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/43/438126393411608.jpg",
+            "originalAlt": "PS4 1TB - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/43/438126393411608.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/43/432149511885123.jpg",
+            "originalAlt": "PS4 1TB - Foto 4",
+            "thumbnail": "https://img.olx.com.br/thumbs/43/432149511885123.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/43/438107272624858.jpg",
+            "originalAlt": "PS4 1TB - Foto 5",
+            "thumbnail": "https://img.olx.com.br/thumbs/43/438107272624858.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/43/434163394041008.jpg",
+            "originalAlt": "PS4 1TB - Foto 6",
+            "thumbnail": "https://img.olx.com.br/thumbs/43/434163394041008.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-1tb-874195662",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/43/433183394970182.jpg",
+        "date": 1619904635,
+        "imageCount": 6,
+        "location": "Belo Horizonte, Castelo",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 35,
+        "olxPay": {
+          "enabled": true,
+          "installments": [
+            {
+              "times": 1,
+              "highlighted": null,
+              "price": { "raw": 260000, "label": "R$ 2600,00" },
+              "fee": null
+            },
+            {
+              "times": 2,
+              "highlighted": null,
+              "price": { "raw": 130000, "label": "R$ 1300,00" },
+              "fee": null
+            },
+            {
+              "times": 3,
+              "highlighted": null,
+              "price": { "raw": 86667, "label": "R$ 866,67" },
+              "fee": null
+            },
+            {
+              "times": 4,
+              "highlighted": null,
+              "price": { "raw": 65000, "label": "R$ 650,00" },
+              "fee": null
+            },
+            {
+              "times": 5,
+              "highlighted": null,
+              "price": { "raw": 52000, "label": "R$ 520,00" },
+              "fee": null
+            },
+            {
+              "times": 6,
+              "highlighted": null,
+              "price": { "raw": 43333, "label": "R$ 433,33" },
+              "fee": null
+            },
+            {
+              "times": 7,
+              "highlighted": null,
+              "price": { "raw": 37143, "label": "R$ 371,43" },
+              "fee": null
+            },
+            {
+              "times": 8,
+              "highlighted": null,
+              "price": { "raw": 32500, "label": "R$ 325,00" },
+              "fee": null
+            },
+            {
+              "times": 9,
+              "highlighted": null,
+              "price": { "raw": 28889, "label": "R$ 288,89" },
+              "fee": null
+            },
+            {
+              "times": 10,
+              "highlighted": null,
+              "price": { "raw": 26000, "label": "R$ 260,00" },
+              "fee": null
+            },
+            {
+              "times": 11,
+              "highlighted": null,
+              "price": { "raw": 23636, "label": "R$ 236,36" },
+              "fee": null
+            },
+            {
+              "times": 12,
+              "highlighted": true,
+              "price": { "raw": 21667, "label": "R$ 216,67" },
+              "fee": { "raw": 0, "label": "0,0%" }
+            }
+          ]
+        },
+        "olxDelivery": { "enabled": true, "weight": 4 },
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "PS4 PRO",
+        "price": "R$ 2.690",
+        "listId": 873865226,
+        "lastBumpAgeSecs": "75025",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": true,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/43/432196510753080.jpg",
+            "originalAlt": "PS4 PRO",
+            "thumbnail": "https://img.olx.com.br/thumbs/43/432196510753080.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/43/433185035132185.jpg",
+            "originalAlt": "PS4 PRO - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/43/433185035132185.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/43/434186158319304.jpg",
+            "originalAlt": "PS4 PRO - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/43/434186158319304.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/43/432174279559960.jpg",
+            "originalAlt": "PS4 PRO - Foto 4",
+            "thumbnail": "https://img.olx.com.br/thumbs/43/432174279559960.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/43/435176159226595.jpg",
+            "originalAlt": "PS4 PRO - Foto 5",
+            "thumbnail": "https://img.olx.com.br/thumbs/43/435176159226595.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/43/437125276840355.jpg",
+            "originalAlt": "PS4 PRO - Foto 6",
+            "thumbnail": "https://img.olx.com.br/thumbs/43/437125276840355.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-pro-873865226",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/43/432196510753080.jpg",
+        "date": 1619894728,
+        "imageCount": 6,
+        "location": "Belo Horizonte, Sagrada Família",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 36,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Jogo de ps4",
+        "price": "R$ 0",
+        "listId": 876243575,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/487116406398079.jpg",
+            "originalAlt": "Jogo de ps4",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/487116406398079.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/jogo-de-ps4-876243575",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/487116406398079.jpg",
+        "date": 1619888438,
+        "imageCount": 1,
+        "location": "Belo Horizonte, Belmonte",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 37,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Jogos ps4",
+        "price": "R$ 400",
+        "listId": 871066047,
+        "lastBumpAgeSecs": "83047",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/35/358120635645528.jpg",
+            "originalAlt": "Jogos ps4",
+            "thumbnail": "https://img.olx.com.br/thumbs/35/358120635645528.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/35/351123396967127.jpg",
+            "originalAlt": "Jogos ps4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/35/351123396967127.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/35/356147156214918.jpg",
+            "originalAlt": "Jogos ps4 - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/35/356147156214918.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/35/352184513228149.jpg",
+            "originalAlt": "Jogos ps4 - Foto 4",
+            "thumbnail": "https://img.olx.com.br/thumbs/35/352184513228149.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/35/354107874012631.jpg",
+            "originalAlt": "Jogos ps4 - Foto 5",
+            "thumbnail": "https://img.olx.com.br/thumbs/35/354107874012631.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/35/350179636864117.jpg",
+            "originalAlt": "Jogos ps4 - Foto 6",
+            "thumbnail": "https://img.olx.com.br/thumbs/35/350179636864117.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/jogos-ps4-871066047",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/35/358120635645528.jpg",
+        "date": 1619886706,
+        "imageCount": 6,
+        "location": "Esmeraldas",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 38,
+        "olxPay": {
+          "enabled": true,
+          "installments": [
+            {
+              "times": 1,
+              "highlighted": null,
+              "price": { "raw": 40000, "label": "R$ 400,00" },
+              "fee": null
+            },
+            {
+              "times": 2,
+              "highlighted": null,
+              "price": { "raw": 20000, "label": "R$ 200,00" },
+              "fee": null
+            },
+            {
+              "times": 3,
+              "highlighted": null,
+              "price": { "raw": 13333, "label": "R$ 133,33" },
+              "fee": null
+            },
+            {
+              "times": 4,
+              "highlighted": null,
+              "price": { "raw": 10000, "label": "R$ 100,00" },
+              "fee": null
+            },
+            {
+              "times": 5,
+              "highlighted": null,
+              "price": { "raw": 8000, "label": "R$ 80,00" },
+              "fee": null
+            },
+            {
+              "times": 6,
+              "highlighted": null,
+              "price": { "raw": 6667, "label": "R$ 66,67" },
+              "fee": null
+            },
+            {
+              "times": 7,
+              "highlighted": null,
+              "price": { "raw": 5714, "label": "R$ 57,14" },
+              "fee": null
+            },
+            {
+              "times": 8,
+              "highlighted": null,
+              "price": { "raw": 5000, "label": "R$ 50,00" },
+              "fee": null
+            },
+            {
+              "times": 9,
+              "highlighted": null,
+              "price": { "raw": 4444, "label": "R$ 44,44" },
+              "fee": null
+            },
+            {
+              "times": 10,
+              "highlighted": null,
+              "price": { "raw": 4000, "label": "R$ 40,00" },
+              "fee": null
+            },
+            {
+              "times": 11,
+              "highlighted": null,
+              "price": { "raw": 3636, "label": "R$ 36,36" },
+              "fee": null
+            },
+            {
+              "times": 12,
+              "highlighted": true,
+              "price": { "raw": 3333, "label": "R$ 33,33" },
+              "fee": { "raw": 0, "label": "0,0%" }
+            }
+          ]
+        },
+        "olxDelivery": { "enabled": true, "weight": 1 },
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Ps4 slin",
+        "price": "R$ 1.600",
+        "listId": 876196736,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/487179527907768.jpg",
+            "originalAlt": "Ps4 slin",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/487179527907768.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/489183289930638.jpg",
+            "originalAlt": "Ps4 slin - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/489183289930638.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-slin-876196736",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/487179527907768.jpg",
+        "date": 1619881241,
+        "imageCount": 2,
+        "location": "Rio Acima",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": true },
+        "position": 39,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Jogos ps4",
+        "price": "R$ 170",
+        "listId": 875893194,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/486167285911410.jpg",
+            "originalAlt": "Jogos ps4",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/486167285911410.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/jogos-ps4-875893194",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/486167285911410.jpg",
+        "date": 1619802041,
+        "imageCount": 1,
+        "location": "Belo Horizonte, João Pinheiro",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 40,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "PS4 1T",
+        "price": "R$ 2.350",
+        "listId": 876148261,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/480153284709063.jpg",
+            "originalAlt": "PS4 1T",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/480153284709063.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/488175163774035.jpg",
+            "originalAlt": "PS4 1T - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/488175163774035.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/487129288363696.jpg",
+            "originalAlt": "PS4 1T - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/487129288363696.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/488114521239517.jpg",
+            "originalAlt": "PS4 1T - Foto 4",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/488114521239517.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/483144524092137.jpg",
+            "originalAlt": "PS4 1T - Foto 5",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/483144524092137.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/487182409520620.jpg",
+            "originalAlt": "PS4 1T - Foto 6",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/487182409520620.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-1t-876148261",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/480153284709063.jpg",
+        "date": 1619873966,
+        "imageCount": 6,
+        "location": "Belo Horizonte, Tupi",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 41,
+        "olxPay": {
+          "enabled": true,
+          "installments": [
+            {
+              "times": 1,
+              "highlighted": null,
+              "price": { "raw": 235000, "label": "R$ 2350,00" },
+              "fee": null
+            },
+            {
+              "times": 2,
+              "highlighted": null,
+              "price": { "raw": 117500, "label": "R$ 1175,00" },
+              "fee": null
+            },
+            {
+              "times": 3,
+              "highlighted": null,
+              "price": { "raw": 78333, "label": "R$ 783,33" },
+              "fee": null
+            },
+            {
+              "times": 4,
+              "highlighted": null,
+              "price": { "raw": 58750, "label": "R$ 587,50" },
+              "fee": null
+            },
+            {
+              "times": 5,
+              "highlighted": null,
+              "price": { "raw": 47000, "label": "R$ 470,00" },
+              "fee": null
+            },
+            {
+              "times": 6,
+              "highlighted": null,
+              "price": { "raw": 39167, "label": "R$ 391,67" },
+              "fee": null
+            },
+            {
+              "times": 7,
+              "highlighted": null,
+              "price": { "raw": 33571, "label": "R$ 335,71" },
+              "fee": null
+            },
+            {
+              "times": 8,
+              "highlighted": null,
+              "price": { "raw": 29375, "label": "R$ 293,75" },
+              "fee": null
+            },
+            {
+              "times": 9,
+              "highlighted": null,
+              "price": { "raw": 26111, "label": "R$ 261,11" },
+              "fee": null
+            },
+            {
+              "times": 10,
+              "highlighted": null,
+              "price": { "raw": 23500, "label": "R$ 235,00" },
+              "fee": null
+            },
+            {
+              "times": 11,
+              "highlighted": null,
+              "price": { "raw": 21364, "label": "R$ 213,64" },
+              "fee": null
+            },
+            {
+              "times": 12,
+              "highlighted": true,
+              "price": { "raw": 19583, "label": "R$ 195,83" },
+              "fee": { "raw": 0, "label": "0,0%" }
+            }
+          ]
+        },
+        "olxDelivery": { "enabled": true, "weight": 9 },
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Jogo de PS4 ",
+        "price": "R$ 170",
+        "listId": 876139638,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/489105280246471.jpg",
+            "originalAlt": "Jogo de PS4 ",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/489105280246471.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/488159160531166.jpg",
+            "originalAlt": "Jogo de PS4  - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/488159160531166.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/480156763225302.jpg",
+            "originalAlt": "Jogo de PS4  - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/480156763225302.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/jogo-de-ps4-876139638",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/489105280246471.jpg",
+        "date": 1619871839,
+        "imageCount": 3,
+        "location": "Belo Horizonte, Jaqueline",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 42,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Jogo de PS4 ",
+        "price": "R$ 120",
+        "listId": 876151325,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/489146408289281.jpg",
+            "originalAlt": "Jogo de PS4 ",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/489146408289281.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/jogo-de-ps4-876151325",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/489146408289281.jpg",
+        "date": 1619874041,
+        "imageCount": 1,
+        "location": "Belo Horizonte, Jaqueline",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 43,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Jogos de Ps4 ",
+        "price": "R$ 0",
+        "listId": 876149634,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/483152520605918.jpg",
+            "originalAlt": "Jogos de Ps4 ",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/483152520605918.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/484123405448001.jpg",
+            "originalAlt": "Jogos de Ps4  - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/484123405448001.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/jogos-de-ps4-876149634",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/483152520605918.jpg",
+        "date": 1619874037,
+        "imageCount": 2,
+        "location": "Belo Horizonte, Jaqueline",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 44,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Boruto ps4",
+        "price": "R$ 120",
+        "listId": 876144853,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/485194403049471.jpg",
+            "originalAlt": "Boruto ps4",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/485194403049471.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/481120767318762.jpg",
+            "originalAlt": "Boruto ps4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/481120767318762.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/486191766444878.jpg",
+            "originalAlt": "Boruto ps4 - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/486191766444878.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/boruto-ps4-876144853",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/485194403049471.jpg",
+        "date": 1619873200,
+        "imageCount": 3,
+        "location": "Contagem, Darcy Vargas",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 45,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "PS4 fat",
+        "price": "R$ 2.100",
+        "listId": 875822096,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/47/477151270295502.jpg",
+            "originalAlt": "PS4 fat",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/477151270295502.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/475158512728144.jpg",
+            "originalAlt": "PS4 fat - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/475158512728144.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/479108519696107.jpg",
+            "originalAlt": "PS4 fat - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/479108519696107.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/471152876979904.jpg",
+            "originalAlt": "PS4 fat - Foto 4",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/471152876979904.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/476111031072046.jpg",
+            "originalAlt": "PS4 fat - Foto 5",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/476111031072046.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/ps4-fat-875822096",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/47/477151270295502.jpg",
+        "date": 1619794838,
+        "imageCount": 5,
+        "location": "Igarapé",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Consoles" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 46,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Jogos Ps4",
+        "price": "R$ 0",
+        "listId": 876113888,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/48/488116287281155.jpg",
+            "originalAlt": "Jogos Ps4",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/488116287281155.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/48/487106163214482.jpg",
+            "originalAlt": "Jogos Ps4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/48/487106163214482.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/jogos-ps4-876113888",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/48/488116287281155.jpg",
+        "date": 1619866865,
+        "imageCount": 2,
+        "location": "Betim, Santa Cruz",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 47,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Manete ps4",
+        "price": "R$ 120",
+        "listId": 875767896,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/47/474142512177786.jpg",
+            "originalAlt": "Manete ps4",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/474142512177786.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/478106157490785.jpg",
+            "originalAlt": "Manete ps4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/478106157490785.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/manete-ps4-875767896",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/47/474142512177786.jpg",
+        "date": 1619785781,
+        "imageCount": 2,
+        "location": "Vespasiano, Conjunto Habitacional Morro Alto",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Acessórios" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 48,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      },
+      {
+        "subject": "Jogos PS4",
+        "price": "R$ 1",
+        "listId": 875764831,
+        "lastBumpAgeSecs": "0",
+        "oldPrice": null,
+        "professionalAd": false,
+        "isFeatured": false,
+        "isVisualHighlight": false,
+        "isVisualHighlightTest": false,
+        "images": [
+          {
+            "original": "https://img.olx.com.br/images/47/478192634888227.jpg",
+            "originalAlt": "Jogos PS4",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/478192634888227.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/478188033279665.jpg",
+            "originalAlt": "Jogos PS4 - Foto 2",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/478188033279665.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/475114279781248.jpg",
+            "originalAlt": "Jogos PS4 - Foto 3",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/475114279781248.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/471132517268797.jpg",
+            "originalAlt": "Jogos PS4 - Foto 4",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/471132517268797.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/477149038662267.jpg",
+            "originalAlt": "Jogos PS4 - Foto 5",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/477149038662267.jpg"
+          },
+          {
+            "original": "https://img.olx.com.br/images/47/477188515873059.jpg",
+            "originalAlt": "Jogos PS4 - Foto 6",
+            "thumbnail": "https://img.olx.com.br/thumbs/47/477188515873059.jpg"
+          }
+        ],
+        "videoCount": 0,
+        "isChatEnabled": true,
+        "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/videogames/jogos-ps4-875764831",
+        "thumbnail": "https://img.olx.com.br/thumbs256x256/47/478192634888227.jpg",
+        "date": 1619785113,
+        "imageCount": 6,
+        "location": "Belo Horizonte, Floresta",
+        "category": "Videogames",
+        "searchCategoryLevelZero": 3000,
+        "searchCategoryLevelOne": 3020,
+        "properties": [
+          { "name": "category", "label": "Categoria", "value": "Videogames" },
+          { "name": "videogame_type", "label": "Tipo", "value": "Jogos" },
+          {
+            "name": "videogame_model",
+            "label": "Modelo",
+            "value": "Playstation 4"
+          }
+        ],
+        "accountActivityStatus": { "isOnline": false },
+        "position": 49,
+        "olxPay": null,
+        "olxDelivery": null,
+        "vehicleReport": {
+          "enabled": false,
+          "title": null,
+          "description": null,
+          "reportLink": null,
+          "reportTitle": null,
+          "tags": null
+        },
+        "tags": [],
+        "priorityAdImage": false
+      }
+    ],
+    "searchCategories": [
+      {
+        "value": "2101",
+        "leaf": "1",
+        "level": "2",
+        "name": "Peças para carros, vans e utilitários",
+        "parent": "2100",
+        "special_case": { "name": "Carros, vans e utilitários" },
+        "friendlyName": "autos-e-pecas/pecas-e-acessorios/carros-vans-e-utilitarios"
+      },
+      {
+        "value": "2102",
+        "leaf": "1",
+        "level": "2",
+        "name": "Peças para caminhões",
+        "parent": "2100",
+        "special_case": { "name": "Caminhões" },
+        "friendlyName": "autos-e-pecas/pecas-e-acessorios/caminhoes"
+      },
+      {
+        "value": "2103",
+        "leaf": "1",
+        "level": "2",
+        "name": "Peças para motos",
+        "parent": "2100",
+        "special_case": { "name": "Motos" },
+        "friendlyName": "autos-e-pecas/pecas-e-acessorios/motos"
+      },
+      {
+        "value": "2104",
+        "leaf": "1",
+        "level": "2",
+        "name": "Peças para barcos e aeronaves",
+        "parent": "2100",
+        "special_case": { "name": "Barcos e aeronaves" },
+        "friendlyName": "autos-e-pecas/pecas-e-acessorios/barcos-e-aeronaves"
+      },
+      {
+        "value": "2105",
+        "leaf": "1",
+        "level": "2",
+        "name": "Peças para ônibus",
+        "parent": "2100",
+        "special_case": { "name": "Ônibus" },
+        "friendlyName": "autos-e-pecas/pecas-e-acessorios/onibus"
+      },
+      {
+        "value": "1001",
+        "breadcrumb_name": "Venda",
+        "leaf": "1",
+        "level": "1",
+        "min_location": "sd_id",
+        "name": "Venda - casas e apartamentos",
+        "parent": "1000",
+        "friendlyName": "imoveis/venda"
+      },
+      {
+        "value": "1002",
+        "breadcrumb_name": "Aluguel",
+        "leaf": "1",
+        "level": "1",
+        "min_location": "sd_id",
+        "name": "Aluguel - casas e apartamentos",
+        "parent": "1000",
+        "friendlyName": "imoveis/aluguel"
+      },
+      {
+        "value": "1080",
+        "leaf": "1",
+        "level": "1",
+        "min_location": "sd_id",
+        "name": "Temporada",
+        "parent": "1000",
+        "friendlyName": "imoveis/temporada"
+      },
+      {
+        "value": "1100",
+        "leaf": "1",
+        "level": "1",
+        "min_location": "sd_id",
+        "name": "Terrenos, sítios e fazendas",
+        "parent": "1000",
+        "friendlyName": "imoveis/terrenos"
+      },
+      {
+        "value": "1120",
+        "leaf": "1",
+        "level": "1",
+        "min_location": "sd_id",
+        "name": "Comércio e indústria",
+        "parent": "1000",
+        "friendlyName": "imoveis/comercio-e-industria"
+      },
+      {
+        "value": "1140",
+        "leaf": "1",
+        "level": "1",
+        "min_location": "sd_id",
+        "name": "Lançamentos",
+        "parent": "1000",
+        "friendlyName": "imoveis/lancamentos"
+      },
+      {
+        "value": "2020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Carros, vans e utilitários",
+        "parent": "2000",
+        "friendlyName": "autos-e-pecas/carros-vans-e-utilitarios"
+      },
+      {
+        "value": "2040",
+        "leaf": "1",
+        "level": "1",
+        "name": "Caminhões",
+        "parent": "2000",
+        "friendlyName": "autos-e-pecas/caminhoes"
+      },
+      {
+        "value": "2050",
+        "leaf": "1",
+        "level": "1",
+        "name": "Ônibus",
+        "parent": "2000",
+        "friendlyName": "autos-e-pecas/onibus"
+      },
+      {
+        "value": "2060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Motos",
+        "parent": "2000",
+        "friendlyName": "autos-e-pecas/motos"
+      },
+      {
+        "value": "2080",
+        "leaf": "1",
+        "level": "1",
+        "name": "Barcos e aeronaves",
+        "parent": "2000",
+        "friendlyName": "autos-e-pecas/barcos-e-aeronaves"
+      },
+      {
+        "value": "2100",
+        "level": "1",
+        "name": "Peças e acessórios",
+        "parent": "2000",
+        "friendlyName": "autos-e-pecas/pecas-e-acessorios"
+      },
+      {
+        "value": "3020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Videogames",
+        "parent": "3000",
+        "friendlyName": "videogames"
+      },
+      {
+        "value": "3040",
+        "leaf": "1",
+        "level": "1",
+        "name": "Computadores e acessórios",
+        "parent": "3000",
+        "friendlyName": "computadores-e-acessorios"
+      },
+      {
+        "value": "3060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Celulares e telefonia",
+        "parent": "3000",
+        "friendlyName": "celulares"
+      },
+      {
+        "value": "3080",
+        "leaf": "1",
+        "level": "1",
+        "name": "Áudio, TV, vídeo e fotografia",
+        "parent": "3000",
+        "friendlyName": "audio-tv-video-e-fotografia"
+      },
+      {
+        "value": "5020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Móveis",
+        "parent": "5000",
+        "friendlyName": "moveis"
+      },
+      {
+        "value": "5040",
+        "leaf": "1",
+        "level": "1",
+        "name": "Eletrodomésticos",
+        "parent": "5000",
+        "friendlyName": "eletrodomesticos"
+      },
+      {
+        "value": "5060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Materiais de construção e jardim",
+        "parent": "5000",
+        "friendlyName": "materiais-de-construcao-e-jardim"
+      },
+      {
+        "value": "5080",
+        "leaf": "1",
+        "level": "1",
+        "name": "Utilidades domésticas",
+        "parent": "5000",
+        "friendlyName": "utilidades-domesticas"
+      },
+      {
+        "value": "5100",
+        "leaf": "1",
+        "level": "1",
+        "name": "Objetos de decoração",
+        "parent": "5000",
+        "friendlyName": "objetos-de-decoracao"
+      },
+      {
+        "value": "6020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Esportes e ginástica",
+        "parent": "6000",
+        "friendlyName": "esportes-e-ginastica"
+      },
+      {
+        "value": "6060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Ciclismo",
+        "parent": "6000",
+        "friendlyName": "ciclismo"
+      },
+      {
+        "value": "7020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Vagas de emprego",
+        "parent": "13000",
+        "friendlyName": "vagas-de-emprego"
+      },
+      {
+        "value": "7060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Serviços",
+        "parent": "7000",
+        "friendlyName": "servicos"
+      },
+      {
+        "value": "7080",
+        "leaf": "1",
+        "level": "1",
+        "name": "Outros itens para comércio e escritório",
+        "parent": "14000",
+        "friendlyName": "comercio-e-escritorio/outros-itens-para-comercio-e-escritorio"
+      },
+      {
+        "value": "8020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Beleza e saúde",
+        "parent": "8000",
+        "friendlyName": "beleza-e-saude"
+      },
+      {
+        "value": "8040",
+        "leaf": "1",
+        "level": "1",
+        "name": "Roupas e calçados",
+        "parent": "8000",
+        "friendlyName": "roupas-e-calcados"
+      },
+      {
+        "value": "8060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Bolsas, malas e mochilas",
+        "parent": "8000",
+        "friendlyName": "bolsas-malas-e-mochilas"
+      },
+      {
+        "value": "8080",
+        "leaf": "1",
+        "level": "1",
+        "name": "Bijouterias, relógios e acessórios",
+        "parent": "8000",
+        "friendlyName": "bijouteria-relogios-e-acessorios"
+      },
+      {
+        "value": "9020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Artigos infantis",
+        "parent": "9000",
+        "friendlyName": "artigos-infantis"
+      },
+      {
+        "value": "10040",
+        "leaf": "1",
+        "level": "1",
+        "name": "Cachorros",
+        "parent": "10000",
+        "friendlyName": "animais-de-estimacao/cachorros"
+      },
+      {
+        "value": "10060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Gatos",
+        "parent": "10000",
+        "friendlyName": "animais-de-estimacao/gatos"
+      },
+      {
+        "value": "10080",
+        "leaf": "1",
+        "level": "1",
+        "name": "Cavalos",
+        "parent": "10000",
+        "friendlyName": "animais-de-estimacao/cavalos"
+      },
+      {
+        "value": "10100",
+        "leaf": "1",
+        "level": "1",
+        "name": "Aquários e acessórios",
+        "parent": "10000",
+        "friendlyName": "animais-de-estimacao/aquarios-e-acessorios"
+      },
+      {
+        "value": "10120",
+        "leaf": "1",
+        "level": "1",
+        "name": "Roedores",
+        "parent": "10000",
+        "friendlyName": "animais-de-estimacao/roedores"
+      },
+      {
+        "value": "10140",
+        "leaf": "1",
+        "level": "1",
+        "name": "Outros animais",
+        "parent": "10000",
+        "friendlyName": "animais-de-estimacao/outros-animais"
+      },
+      {
+        "value": "11020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Instrumentos musicais",
+        "parent": "11000",
+        "friendlyName": "instrumentos-musicais"
+      },
+      {
+        "value": "11040",
+        "leaf": "1",
+        "level": "1",
+        "name": "CDs, DVDs etc",
+        "parent": "11000",
+        "friendlyName": "cds-dvds"
+      },
+      {
+        "value": "11060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Livros e revistas",
+        "parent": "11000",
+        "friendlyName": "livros-e-revistas"
+      },
+      {
+        "value": "11080",
+        "leaf": "1",
+        "level": "1",
+        "name": "Antiguidades",
+        "parent": "11000",
+        "friendlyName": "antiguidades"
+      },
+      {
+        "value": "11100",
+        "leaf": "1",
+        "level": "1",
+        "name": "Hobbies e coleções",
+        "parent": "11000",
+        "friendlyName": "hobbies-e-colecoes"
+      },
+      {
+        "value": "12020",
+        "leaf": "1",
+        "level": "1",
+        "name": "Tratores e máquinas agrícolas",
+        "parent": "12000",
+        "friendlyName": "agro-e-industria/tratores-e-maquinas-agricolas"
+      },
+      {
+        "value": "12040",
+        "leaf": "1",
+        "level": "1",
+        "name": "Peças para tratores e máquinas",
+        "parent": "12000",
+        "friendlyName": "agro-e-industria/pecas-para-tratores-e-maquinas"
+      },
+      {
+        "value": "12060",
+        "leaf": "1",
+        "level": "1",
+        "name": "Equipamentos e mobiliário",
+        "parent": "14000",
+        "friendlyName": "comercio-e-escritorio/equipamentos-e-mobiliario"
+      },
+      {
+        "value": "12080",
+        "leaf": "1",
+        "level": "1",
+        "name": "Trailers e carrinhos comerciais",
+        "parent": "14000",
+        "friendlyName": "comercio-e-escritorio/trailers-e-carrinhos-comerciais"
+      },
+      {
+        "value": "12100",
+        "leaf": "1",
+        "level": "1",
+        "name": "Animais para agropecuária",
+        "parent": "12000",
+        "friendlyName": "agro-e-industria/animais-para-agropecuaria"
+      },
+      {
+        "value": "12120",
+        "leaf": "1",
+        "level": "1",
+        "name": "Máquinas pesadas para construção",
+        "parent": "12000",
+        "friendlyName": "agro-e-industria/maquinas-pesadas-para-construcao"
+      },
+      {
+        "value": "12140",
+        "leaf": "1",
+        "level": "1",
+        "name": "Máquinas para produção industrial",
+        "parent": "12000",
+        "friendlyName": "agro-e-industria/maquinas-para-producao-industrial"
+      },
+      {
+        "value": "12160",
+        "leaf": "1",
+        "level": "1",
+        "name": "Outros itens para agro e indústria",
+        "parent": "12000",
+        "friendlyName": "agro-e-industria/outros-itens-para-agro-e-industria"
+      },
+      {
+        "value": "12180",
+        "leaf": "1",
+        "level": "1",
+        "name": "Produção Rural",
+        "parent": "12000",
+        "friendlyName": "agro-e-industria/producao-rural"
+      },
+      {
+        "value": "1000",
+        "level": "0",
+        "min_location": "sd_id",
+        "name": "Imóveis",
+        "friendlyName": "imoveis",
+        "order": "1"
+      },
+      {
+        "value": "2000",
+        "level": "0",
+        "name": "Autos e peças",
+        "friendlyName": "autos-e-pecas",
+        "order": "2"
+      },
+      {
+        "value": "3000",
+        "level": "0",
+        "name": "Eletrônicos e celulares",
+        "friendlyName": "eletronicos-e-celulares",
+        "order": "4"
+      },
+      {
+        "value": "5000",
+        "level": "0",
+        "name": "Para a sua casa",
+        "friendlyName": "para-a-sua-casa",
+        "order": "3"
+      },
+      {
+        "value": "6000",
+        "level": "0",
+        "name": "Esportes e lazer",
+        "friendlyName": "esportes-e-lazer",
+        "order": "6"
+      },
+      {
+        "value": "7000",
+        "level": "0",
+        "name": "Serviços",
+        "friendlyName": "servicos",
+        "order": "12"
+      },
+      {
+        "value": "8000",
+        "level": "0",
+        "name": "Moda e beleza",
+        "friendlyName": "moda-e-beleza",
+        "order": "9"
+      },
+      {
+        "value": "9000",
+        "level": "0",
+        "name": "Artigos infantis",
+        "friendlyName": "artigos-infantis",
+        "order": "7"
+      },
+      {
+        "value": "10000",
+        "level": "0",
+        "name": "Animais de estimação",
+        "friendlyName": "animais-de-estimacao",
+        "order": "8"
+      },
+      {
+        "value": "11000",
+        "level": "0",
+        "name": "Música e hobbies",
+        "friendlyName": "musica-e-hobbies",
+        "order": "5"
+      },
+      {
+        "value": "12000",
+        "level": "0",
+        "name": "Agro e indústria",
+        "friendlyName": "agro-e-industria",
+        "order": "10"
+      },
+      {
+        "value": "13000",
+        "level": "0",
+        "name": "Vagas de emprego",
+        "friendlyName": "vagas-de-emprego",
+        "order": "13"
+      },
+      {
+        "value": "14000",
+        "level": "0",
+        "name": "Comércio e escritório",
+        "friendlyName": "comercio-e-escritorio",
+        "order": "11"
+      }
+    ],
+    "abTestGroups": "adv-adview-lazyload_control.adv-gemini_enabled.adv-listing-afsh-native_enabled.adv-listing-afsh_enabled.adv-monitoring_control.adv-tails_enabled.bj-historico-veicular_enabled-with-listing-badge.bj-transactional-info_enabled.imo-estande-virtual_show.listingadvertisement_selobv.oraculoListing_on-new-queries.pp-product-visual-highlight-web_super-vitrine-active.search-olxpay-filter_on.search-smart-price-sort_A.vasimo-ux-improvements_enabled.vx-tag-listing_active.wallet-campanha-maes_enabled",
+    "pageIndex": 1,
+    "pageLimit": 100,
+    "pageSize": 50,
+    "totalOfAds": 3261,
+    "pageTitle": {
+      "simple": "\"ps4\" em Belo Horizonte e região, MG",
+      "full": "\"ps4\" em Belo Horizonte e região, MG -  Encontramos \"ps4\" | OLX"
+    },
+    "searchboxes": [
+      {
+        "label": "Agro e indústria",
+        "link": "https://www.olx.com.br/agro-e-industria"
+      },
+      {
+        "label": "Animais de estimação",
+        "link": "https://www.olx.com.br/animais-de-estimacao"
+      },
+      {
+        "label": "Artigos infantis",
+        "link": "https://www.olx.com.br/artigos-infantis"
+      },
+      {
+        "label": "Autos e peças",
+        "link": "https://www.olx.com.br/autos-e-pecas"
+      },
+      {
+        "label": "Comércio e escritório",
+        "link": "https://www.olx.com.br/comercio-e-escritorio"
+      },
+      {
+        "label": "Eletrônicos e celulares",
+        "link": "https://www.olx.com.br/eletronicos-e-celulares"
+      },
+      {
+        "label": "Esportes e lazer",
+        "link": "https://www.olx.com.br/esportes-e-lazer"
+      },
+      { "label": "Imóveis", "link": "https://www.olx.com.br/imoveis" },
+      {
+        "label": "Moda e beleza",
+        "link": "https://www.olx.com.br/moda-e-beleza"
+      },
+      {
+        "label": "Música e hobbies",
+        "link": "https://www.olx.com.br/musica-e-hobbies"
+      },
+      {
+        "label": "Para a sua casa",
+        "link": "https://www.olx.com.br/para-a-sua-casa"
+      },
+      { "label": "Serviços", "link": "https://www.olx.com.br/servicos" },
+      {
+        "label": "Vagas de emprego",
+        "link": "https://www.olx.com.br/vagas-de-emprego"
+      }
+    ],
+    "dataContext": { "locations": [] },
+    "previousPageLink": null,
+    "nextPageLink": "https://mg.olx.com.br/belo-horizonte-e-regiao?o=2&amp;q=ps4",
+    "filterTabProps": {
+      "LocationText": "DDD 31 - Belo Horizonte e região",
+      "LocationLink": "https://www.olx.com.br"
+    }
+  },
+  "abTestGroups": "adv-adview-lazyload_control.adv-gemini_enabled.adv-listing-afsh-native_enabled.adv-listing-afsh_enabled.adv-monitoring_control.adv-tails_enabled.bj-historico-veicular_enabled-with-listing-badge.bj-transactional-info_enabled.imo-estande-virtual_show.listingadvertisement_selobv.oraculoListing_on-new-queries.pp-product-visual-highlight-web_super-vitrine-active.search-olxpay-filter_on.search-smart-price-sort_A.vasimo-ux-improvements_enabled.vx-tag-listing_active.wallet-campanha-maes_enabled",
+  "urls": {
+    "REPOSITORIES_API_URL": "https://bj-repositories-api.olx.com.br",
+    "FAVORITES_API_URL": "https://apigw.olx.com.br/cdhv/favorite/api/v1",
+    "FAVORITES_API_SECRET": "xobt1DEOn8CblfaIFx5Ul5TNI0bKrZ0i",
+    "SENTRY_ENVIRONMENT_NAME": "listing-production"
+  },
+  "deviceType": "desktop"
+}

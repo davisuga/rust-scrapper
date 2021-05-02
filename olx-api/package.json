@@ -1,0 +1,14 @@
+{
+  "name": "olx-api",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "author": "Davi William Moraes Suga <daviciencia1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.8.1"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
