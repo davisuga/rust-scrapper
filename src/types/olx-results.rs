@@ -3,10 +3,10 @@ use serde::{Deserialize, Serialize};
 #[derive(Default, Debug, Clone, PartialEq, Serialize, Deserialize)]
 #[serde(rename_all = "camelCase")]
 pub struct OlxResults {
-    pub ab_test_groups: String,
-    pub device_type: String,
+    pub ab_test_groups: Option<String>,
+    pub device_type: Option<String>,
     pub listing_props: ListingProps,
-    pub urls: Urls,
+    pub urls: Option<Urls>,
 }
 
 #[derive(Default, Debug, Clone, PartialEq, Serialize, Deserialize)]
@@ -152,7 +152,7 @@ pub struct VehicleReport {
 pub struct Category {
     pub count: i64,
     pub friendly_name: String,
-    pub leaf: String,
+    pub leaf: Option<String>,
     pub level: String,
     pub name: String,
     pub parent: String,
@@ -284,7 +284,7 @@ pub struct SearchBoxProps {
 pub struct Category2 {
     pub count: i64,
     pub friendly_name: String,
-    pub leaf: String,
+    pub leaf: Option<String>,
     pub level: String,
     pub name: String,
     pub parent: String,
