@@ -13,17 +13,22 @@ use serde_json::Value;
 pub mod olx_results;
 use olx_results::OlxResults;
 
-#[tokio::main]
-async fn main() {
-    let olx_results = get_olx_results("ps4").await;
+fn main() {
+    let a = async move {
+        search("sas").await;
+    };
+    println!("runs stuff, {:?}", a)
+}
+async fn search(term: &str) -> Vec<Value> {
+    let olx_results = get_olx_results(term).await;
     let all_results_data = olx_results
         .iter()
         .map(|ad_url| get_ad_data(&ad_url[..]))
         .collect::<Vec<_>>();
     let joined_data = join_all(all_results_data).await;
     println!("joined {:#?} results", joined_data.len());
+    joined_data
 }
-
 async fn get_olx_results(term: &str) -> Vec<String> {
     let olx_results = search_olx(term).await.expect("Failed to retrieve results");
     let data_json_value = get_data_json(&olx_results);
